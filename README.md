@@ -11,3 +11,14 @@ This Is Not A Template
 4. Finally, I published the repository and pushed the changes.
 
 <img width="400" height="130" alt="image" src="https://github.com/user-attachments/assets/7e7e211e-50f2-4e4e-af33-43f558fbfa21" />
+
+# Shader Creation
+
+Shader creation was done by adding textures and customizing them by attaching nodes. As of 10/4/2026, the following are some of the nodes used in the project:
+- Linear Interpolation
+- Multiply
+- Texture Coordinate
+- Texture Sample
+- Constant
+- Parameter
+- RGBA
