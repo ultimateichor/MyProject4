@@ -22,3 +22,6 @@ Shader creation was done by adding textures and customizing them by attaching no
 - Constant
 - Parameter
 - RGBA
+
+# Procedural
+- At least one of the assignments adds a Procedural Generation scene including a forest of tree and crafting Actors, all procedurally generated using a PCG Graph.
